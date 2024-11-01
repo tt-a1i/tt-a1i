@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **tt-a1i/tt-a1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&theme=transparent)
+### Hi there 👋,I'm t. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-a1i&layout=compact&theme=tokyonight)
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+<!-- - 💬 Ask me about anything related to Java/Python.
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
+-->
+- 📫 How to reach me: 2801884530@qq.com
+
+
+![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+
+
+
