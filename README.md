@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about anything related to Java/Python.
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 -->
+<!--
 ### Hi there 👋,I'm t. 
+-->
 <!--
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 
 - 💬 Blog: https://juejin.cn/user/2175258804632332
 - 📫 How to reach me: 2801884530@qq.com
--->
+
 
 ![](https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&theme=transparent)
 
 
-
+-->
