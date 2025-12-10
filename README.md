@@ -10,15 +10,13 @@ Building AI-powered developer tools & Claude Code skills.
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&theme=default&hide_border=true&hide_title=true" width="450"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-a1i&layout=compact&hide_border=true&hide_title=true" width="350"/>
-
 ### Featured Projects
 
-- [**code-review-skill**](https://github.com/tt-a1i/code-review-skill) - Comprehensive code review for React, Vue, Rust, TypeScript
-- [**chat_edit**](https://github.com/tt-a1i/chat_edit) - Chat-based code editing tool
-- [**5-whys-skill**](https://github.com/tt-a1i/5-whys-skill) - Root cause analysis skill for Claude Code
-- [**first-principles-skill**](https://github.com/tt-a1i/first-principles-skill) - First principles thinking analysis
+| Project | Description |
+|---------|-------------|
+| [**code-review-skill**](https://github.com/tt-a1i/code-review-skill) | Comprehensive code review for React, Vue, Rust, TypeScript |
+| [**chat_edit**](https://github.com/tt-a1i/chat_edit) | Chat-based code editing tool |
+| [**5-whys-skill**](https://github.com/tt-a1i/5-whys-skill) | Root cause analysis skill for Claude Code |
+| [**first-principles-skill**](https://github.com/tt-a1i/first-principles-skill) | First principles thinking analysis |
+| [**pkg-analyzer**](https://github.com/tt-a1i/pkg-analyzer) | Analyze node_modules dependencies size |
+| [**prompt-vault**](https://github.com/tt-a1i/prompt-vault) | Open-source prompt management tool |
