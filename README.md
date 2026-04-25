@@ -1,6 +1,10 @@
-## Hi, I'm tt-a1i
+<h1 align="center">tt-a1i</h1>
 
-**Building tools for AI coding agents.** Currently exploring multi-agent simulation, long-term memory for LLMs, and the developer infrastructure that makes AI coding assistants observable, memorable, and verifiable.
+<p align="center"><sub>Building tools for AI coding agents.</sub></p>
+
+---
+
+> Currently exploring multi-agent simulation, long-term memory for LLMs, and the developer infrastructure that makes AI coding assistants observable, memorable, and verifiable.
 
 ---
 
@@ -25,6 +29,7 @@
 *Make AI agents more observable, memorable, and verifiable.*
 
 - **[agmon](https://github.com/tt-a1i/agmon)** — htop for AI Agents. Real-time token cost and tool-call observability across Claude Code and Codex, with TUI and web dashboard. `Go`
+  <sub>Single Go binary; auto-installs Claude Code hooks on first run; ships weekly Markdown cost reports.</sub>
 - **[archify](https://github.com/tt-a1i/archify)** — Claude Skill that turns plain-language descriptions into export-ready architecture diagrams with dark/light themes and 4× PNG/SVG export.
 - **[agent-inspect](https://github.com/tt-a1i/agent-inspect)** — Parallel multi-agent code audit slash command for Claude Code, OpenCode, and Codex CLI.
 - **[evermemos-mcp](https://github.com/tt-a1i/evermemos-mcp)** — MCP memory server giving AI coding assistants persistent cross-session recall — benchmarked 60/60 accuracy on EverMemOS Cloud. `Python · MCP`
@@ -34,6 +39,7 @@
 *From multi-agent worlds to AI-powered editors and durable memory.*
 
 - **[MiroFish-local](https://github.com/tt-a1i/MiroFish-local)** — Local-privacy edition of the MiroFish multi-agent social simulation. Replaces Zep Cloud with Graphiti + Neo4j; runs fully air-gapped. `Python · Neo4j`
+  <sub>Single env var toggles between Zep Cloud and air-gapped Graphiti + Neo4j memory.</sub>
 - **[chat_edit](https://github.com/tt-a1i/chat_edit)** — Dual-mode AI app combining streaming chat and rich-text AI editing, with Mermaid, Monaco diff, multi-format export, offline-first storage. `Vue 3.5 · TypeScript`
 - **[mnemo](https://github.com/tt-a1i/mnemo)** — AI assistant with three-layer durable memory (episodic / semantic / procedural) that reconstructs full session context from EverMemOS Cloud. `Next.js · FastAPI`
 
@@ -41,6 +47,7 @@
 *Built to ship — or to understand.*
 
 - **[coding-cli-guide](https://github.com/tt-a1i/coding-cli-guide)** — 158-page interactive visual guide to Gemini CLI internals: Agent Loop, tool scheduling, security sandboxing, MCP. [Live demo](https://tt-a1i.github.io/coding-cli-guide/). `React 19 · Vite 7`
+  <sub>120+ step-by-step animations across 13 topic groups; deep-linkable per topic.</sub>
 - **[pkg-analyzer](https://github.com/tt-a1i/pkg-analyzer)** — Published npm CLI that visualizes node_modules size, duplicates, and unused deps, with clipboard export for AI-powered optimization. `TypeScript`
 
 ### Upstream Contributions
