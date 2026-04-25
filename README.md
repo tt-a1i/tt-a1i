@@ -48,6 +48,8 @@
 
 - **[coding-cli-guide](https://github.com/tt-a1i/coding-cli-guide)** — 158-page interactive visual guide to Gemini CLI internals: Agent Loop, tool scheduling, security sandboxing, MCP. [Live demo](https://tt-a1i.github.io/coding-cli-guide/). `React 19 · Vite 7`
   <sub>120+ step-by-step animations across 13 topic groups; deep-linkable per topic.</sub>
+- **[doppel](https://github.com/tt-a1i/doppel)** — macOS CLI/TUI that clones any `.app` bundle into a runnable second instance with a new bundle ID and ad-hoc re-signing. Useful for running multiple copies of Electron-based AI tools side by side. `Go`
+  <sub>Single binary; TUI for interactive use, CLI with `--json` for scripting; `brew install tt-a1i/tap/doppel`.</sub>
 - **[pkg-analyzer](https://github.com/tt-a1i/pkg-analyzer)** — Published npm CLI that visualizes node_modules size, duplicates, and unused deps, with clipboard export for AI-powered optimization. `TypeScript`
 
 ### Upstream Contributions
