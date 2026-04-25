@@ -42,3 +42,11 @@
 
 - **[coding-cli-guide](https://github.com/tt-a1i/coding-cli-guide)** — 158-page interactive visual guide to Gemini CLI internals: Agent Loop, tool scheduling, security sandboxing, MCP. [Live demo](https://tt-a1i.github.io/coding-cli-guide/). `React 19 · Vite 7`
 - **[pkg-analyzer](https://github.com/tt-a1i/pkg-analyzer)** — Published npm CLI that visualizes node_modules size, duplicates, and unused deps, with clipboard export for AI-powered optimization. `TypeScript`
+
+### Upstream Contributions
+*PRs to projects I use and depend on.*
+
+- **JS tooling & runtimes** — [biome](https://github.com/biomejs/biome), [oxc](https://github.com/oxc-project/oxc), [bun](https://github.com/oven-sh/bun), [deno](https://github.com/denoland/deno), [TypeScript](https://github.com/microsoft/TypeScript), [rspack](https://github.com/web-infra-dev/rspack)
+- **Web frameworks & libraries** — [fastify](https://github.com/fastify/fastify), [elysia](https://github.com/elysiajs/elysia), [TanStack/form](https://github.com/TanStack/form), [tRPC](https://github.com/trpc/trpc), [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+- **AI coding ecosystem** — [gemini-cli](https://github.com/google-gemini/gemini-cli), [qwen-code](https://github.com/QwenLM/qwen-code), [agentgateway](https://github.com/agentgateway/agentgateway), [kgateway](https://github.com/kgateway-dev/kgateway)
+- **Apps & infrastructure** — [Apache Superset](https://github.com/apache/superset), [react-grab](https://github.com/aidenybai/react-grab)
