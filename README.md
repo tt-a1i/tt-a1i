@@ -1,12 +1,5 @@
 <h1 align="center">tt-a1i</h1>
 
-<p align="center"><sub>Building tools for AI coding agents.</sub></p>
-
----
-
-> Currently exploring multi-agent simulation, long-term memory for LLMs, and the developer infrastructure that makes AI coding assistants observable, memorable, and verifiable.
-
----
 
 ### Orchestration & Collaboration — [@mco-org](https://github.com/mco-org)
 *Neutral orchestration and collaboration layers for AI coding agents.*
