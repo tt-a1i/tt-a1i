@@ -1,4 +1,4 @@
-<h1 align="center">tt-a1i</h1>
+<!-- <h1 align="center">tt-a1i</h1>
 
 
 ### Orchestration & Collaboration — [@mco-org](https://github.com/mco-org)
@@ -51,4 +51,4 @@
 - **JS tooling & runtimes** — [biome](https://github.com/biomejs/biome), [oxc](https://github.com/oxc-project/oxc), [bun](https://github.com/oven-sh/bun), [deno](https://github.com/denoland/deno), [TypeScript](https://github.com/microsoft/TypeScript), [rspack](https://github.com/web-infra-dev/rspack)
 - **Web frameworks & libraries** — [fastify](https://github.com/fastify/fastify), [elysia](https://github.com/elysiajs/elysia), [TanStack/form](https://github.com/TanStack/form), [tRPC](https://github.com/trpc/trpc), [drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 - **AI coding ecosystem** — [gemini-cli](https://github.com/google-gemini/gemini-cli), [qwen-code](https://github.com/QwenLM/qwen-code), [agentgateway](https://github.com/agentgateway/agentgateway), [kgateway](https://github.com/kgateway-dev/kgateway)
-- **Apps & infrastructure** — [Apache Superset](https://github.com/apache/superset), [react-grab](https://github.com/aidenybai/react-grab)
+- **Apps & infrastructure** — [Apache Superset](https://github.com/apache/superset), [react-grab](https://github.com/aidenybai/react-grab) -->
