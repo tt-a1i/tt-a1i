@@ -1,3 +1,14 @@
+# tt-a1i
+
+![GitHub Followers](https://img.shields.io/github/followers/tt-a1i?style=for-the-badge&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/tt-a1i?style=for-the-badge&logo=github&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=tt-a1i&style=for-the-badge&color=blue)
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-a1i&layout=compact&hide_title=true&langs_count=8)
+
 <!-- <h1 align="center">tt-a1i</h1>
 
 
