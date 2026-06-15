@@ -1,33 +1,9 @@
 <div align="center">
   <a href="https://github.com/tt-a1i">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" width="49%" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/tt-a1i/tt-a1i">
-    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=tt-a1i&theme=tokyonight&hide_border=true" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/tt-a1i">
-    <img alt="Contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tt-a1i&theme=tokyonight" width="49%" />
-  </a>
-  <a href="https://github.com/tt-a1i">
-    <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tt-a1i&utcOffset=8&theme=tokyonight" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/tt-a1i">
-    <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tt-a1i&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/tt-a1i/archify">
-    <img alt="Pinned repo archify" src="https://github-readme-stats.vercel.app/api/pin/?username=tt-a1i&repo=archify&theme=transparent" />
-  </a>
-  <a href="https://github.com/tt-a1i/hive">
-    <img alt="Pinned repo hive" src="https://github-readme-stats.vercel.app/api/pin/?username=tt-a1i&repo=hive&theme=transparent" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=tt-a1i&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
 <!-- <h1 align="center">tt-a1i</h1>
