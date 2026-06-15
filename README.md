@@ -11,14 +11,13 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-a1i&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
-  </a>
-</div>
+## 🤝 Open Source Highlights
+
+- 🚀 **Owner/maintainer-driven projects:** `archify`, `agent-inspect`, `evermemos-mcp`, `vscode-ai-commit`
+- 🌍 **Open-source ecosystem contributions:** `biome`, `oxc`, `bun`, `deno`, `TypeScript`, `fastify`, `TanStack`
+- 🧠 **Focus areas:** AI coding assistants, observability, docs systems, architecture tooling
 
 ---
-
 <!-- <h1 align="center">tt-a1i</h1>
 
 
