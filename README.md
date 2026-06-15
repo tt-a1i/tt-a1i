@@ -1,7 +1,3 @@
-# tt-a1i
-
-## 📈 Live Stats
-
 <div align="center">
   <a href="https://github.com/tt-a1i">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" width="48%" />
@@ -10,14 +6,6 @@
     <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=tt-a1i&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
-
-## 🤝 Open Source Highlights
-
-- 🚀 **Owner/maintainer-driven projects:** `archify`, `agent-inspect`, `evermemos-mcp`, `vscode-ai-commit`
-- 🌍 **Open-source ecosystem contributions:** `biome`, `oxc`, `bun`, `deno`, `TypeScript`, `fastify`, `TanStack`
-- 🧠 **Focus areas:** AI coding assistants, observability, docs systems, architecture tooling
-
----
 <!-- <h1 align="center">tt-a1i</h1>
 
 
