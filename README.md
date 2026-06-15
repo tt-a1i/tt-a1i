@@ -1,13 +1,46 @@
-# tt-a1i
+<div align="center">
+  <h1>🧠 tt-a1i</h1>
+  <p>
+    <strong>AI Infra Builder · Open-Source Explorer · Project Tinkerer</strong>
+  </p>
 
-![GitHub Followers](https://img.shields.io/github/followers/tt-a1i?style=for-the-badge&logo=github&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/tt-a1i?style=for-the-badge&logo=github&label=Stars)
-![Profile Views](https://komarev.com/ghpvc/?username=tt-a1i&style=for-the-badge&color=blue)
+  <p>
+    <a href="https://github.com/tt-a1i?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repos-Explore%20on%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/tt-a1i?tab=stars"><img alt="Stars" src="https://img.shields.io/badge/Stars-View%20Starred-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/tt-a1i?tab=followers"><img alt="Followers" src="https://img.shields.io/badge/Follow-Connect%20with%20Me-6f42c1?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
-## Stats
+  <p>
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/tt-a1i?style=for-the-badge&logo=github&label=Followers" />
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/tt-a1i?style=for-the-badge&logo=github&label=Stars" />
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=tt-a1i&style=for-the-badge&color=blue" />
+  </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-a1i&layout=compact&hide_title=true&langs_count=8)
+  <p><sub>Focus: practical agents, readable systems, and durable developer workflows.</sub></p>
+</div>
+
+## 📈 Live Stats
+
+<div align="center">
+  <a href="https://github.com/tt-a1i">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tt-a1i&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/tt-a1i/tt-a1i">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=tt-a1i&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-a1i&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <p>⏱️ <strong>Current State:</strong> building focused, measurable OSS tooling and documentation systems for AI coding teams.</p>
+</div>
+
+---
 
 <!-- <h1 align="center">tt-a1i</h1>
 
