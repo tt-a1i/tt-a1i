@@ -6,5 +6,3 @@
   <a href="https://github.com/tt-a1i?tab=followers"><img src="https://img.shields.io/github/followers/tt-a1i?style=flat-square&logo=github&label=followers" alt="GitHub followers" /></a>
   <a href="https://x.com/t20000622yy"><img src="https://img.shields.io/badge/X-@t20000622yy-181717?style=flat-square&logo=x" alt="X" /></a>
 </p>
-
-<a href="https://github.com/tt-a1i/archify"><img src="https://raw.githubusercontent.com/tt-a1i/archify/main/docs/assets/archify-readme-hero.png" alt="Archify" width="100%" /></a>
