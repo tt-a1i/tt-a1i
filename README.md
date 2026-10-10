@@ -4,4 +4,4 @@
 
 
 
-<p align="center">Took the long way here: security guard, mechanic trainee, factory worker, soldier.</p>
+<p align="center">Staying curious and passionate, hoping to build products that bring value and help people.</p>
